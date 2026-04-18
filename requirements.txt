@@ -1,0 +1,7 @@
+backtesting==0.6.5
+pandas
+numpy
+pandas_ta==0.4.71b0
+requests
+pytz
+runpod
